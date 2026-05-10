@@ -160,7 +160,7 @@ Malware that is waiting for commands often sends empty ACKs with a zero window t
 
 ---
 
-## Pro Tips for Your Cheat Sheet
+## Pro Tips
 
 | Filter Component               | Meaning / Use Case                                     |
 |--------------------------------|--------------------------------------------------------|
